@@ -1,9 +1,13 @@
 ### Desafio - Refatorar o projeto da aula anterior evitando Bugs!
 
-# 1) Solicita ao usuário que digite seu nome
+# 1) Solicita ao usuário que digite seu nome - Feito
+# nome = str(input('Digite seu nome: '))
+# print(f'Olá, {nome}!')
 
 # 2) Solicita ao usuário que digite o valor do seu salário
-# Converte a entrada para um número de ponto flutuante
+# Converte a entrada para um número de ponto flutuante - Feito
+# salario = float(input('Digite seu salário: '))
+# print(f'Salário: R$ {salario:.2f}')
 
 # 3) Solicita ao usuário que digite o valor do bônus recebido
 # Converte a entrada para um número de ponto flutuante
